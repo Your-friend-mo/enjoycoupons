@@ -37,4 +37,4 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Sitemap: https://enjoycoupons.com/sitemap.xml
+Sitemap: https://enjoycoupons.comee.online/sitemap.xml
